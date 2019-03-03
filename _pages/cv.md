@@ -17,12 +17,9 @@ Education
 
 Work experience
 ======
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Student Researcher, University of California - Merced (2018-Present)
   
-* Undergraduate Researcher in Dr. Matthew Escobar’s Plant Molecular Biology Lab, California State University San Marcos, San Marcos, CA.
+* Undergraduate Researcher in Dr. Matthew Escobar’s Plant Molecular Biology Lab, California State University - San Marcos. (2015-2018)
   * Subcellular and tissue-level localization of the glutaredoxin proteins ATGRXS5, ATGRXS6, and ATGRXS8 in Arabidopsis thaliana using promoter-reporter gene fusions, GFP-protein fusions, GUS histochemistry, histological sectioning, and fluorescence microscopy.
   
 Skills
