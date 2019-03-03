@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biological Science - Cellular and Molecular Biology Concentration, California State University - San Marcos, 2018	                      
-* Ph.D. in Quantitative and Systems Biology, University of California – Merced, 2018-Present
+* Ph.D. in Quantitative and Systems Biology, University of California – Merced, 2018-Present	                      
+* B.S. in Biological Science - Cellular and Molecular Biology Concentration, California State University - San Marcos, 2018	
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+  
+* Undergraduate Researcher in Dr. Matthew Escobar’s Plant Molecular Biology Lab, California State University San Marcos, San Marcos, CA.
+  * Subcellular and tissue-level localization of the glutaredoxin proteins ATGRXS5, ATGRXS6, and ATGRXS8 in Arabidopsis thaliana using promoter-reporter gene fusions, GFP-protein fusions, GUS histochemistry, histological sectioning, and fluorescence microscopy.
   
 Skills
 ======
@@ -56,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
