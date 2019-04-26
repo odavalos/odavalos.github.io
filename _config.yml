@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Under Construction"
 title_separator          : "-"
 name                     : &name "Oscar Davalos"
-description              : &description "Computational Immunologist (In-Training)"
+description              : &description "PhD Student"
 url                      : https://odavalos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "odavalos/odavalos.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Oscar Davalos"
   avatar           : "IMG_7626_2.png"
-  bio              : "PhD Student"
+  bio              : "Computational Immunologist (In-Training)"
   location         : "Merced, CA"
   employer         :
   pubmed           : 
