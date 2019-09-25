@@ -3,16 +3,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
-    published: false
+  #- title: "Talks"
+  #  url: /talks/
+  #  published: false
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-    published: false
+  #- title: "Portfolio"
+  #  url: /portfolio/
+  #  published: false
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -20,6 +20,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
-    published: false
+  #- title: "Guide"
+  #  url: /markdown/
+  #  published: false
