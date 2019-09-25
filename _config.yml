@@ -229,12 +229,12 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+      published: false
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-      published: false
   # _talks
   - scope:
       path: ""
