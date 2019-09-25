@@ -4,13 +4,15 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
+    published: false
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
+    published: false
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -20,3 +22,4 @@ main:
     
   - title: "Guide"
     url: /markdown/
+    published: false
