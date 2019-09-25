@@ -229,7 +229,6 @@ defaults:
   - scope:
       path: ""
       type: portfolio
-      published: false
     values:
       layout: single
       author_profile: true
